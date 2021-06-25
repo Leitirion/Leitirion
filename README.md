@@ -38,6 +38,9 @@ First version of tests was on Cypress. Tried Playwright.
 - Full development cycle
 - Customers integration(oil and gas companies) of the automation systems
 
+![Ilnar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leitirion&show_icons=true&theme=radical)
+
+
 <!--
 **Leitirion/Leitirion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
