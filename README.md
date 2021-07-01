@@ -12,7 +12,7 @@ Work schedule: flexible schedule, full day, shift schedule, remote working
 
 **QA engineer**
 
-Stack: Github, CircleCI, Puppeteer, Allure, Notion.so 
+Stack: Github, CircleCI, Puppeteer, Allure, Notion.so, Java, Selenide, Jenkins
 
 Achievements: 
 
