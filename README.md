@@ -16,23 +16,18 @@ Stack: Github, CircleCI, Puppeteer, Allure, Notion.so, Java, Selenide, Jenkins
 
 Achievements: 
 
-- Setting up e2e-testing(Puppeteer)
+- Setting up e2e-testing(Puppeteer, Selenide)
 - reporting (Allure)
 - ci (on build/scheduled)
 - notifications(Telegram)
-- API tests (postman with newman)
-
+- API tests (postman with newman, Java)
 - manual testing 
-
 - workflows / necessary documentation 
-
 - coverage 
-
 - requirements review 
-
 - participating in release cycle 
 
-First version of tests was on Cypress. Tried Playwright.
+First version of tests was on Cypress, Playwright, Selenide (Java).
 
 - Architecture design
 - Full development cycle
