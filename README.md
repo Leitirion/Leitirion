@@ -20,7 +20,7 @@ Achievements: 
 - reporting (Allure)
 - ci (on build/scheduled)
 - notifications(Telegram)
-- API tests (postman with newman, Java)
+- API tests (postman with newman, Java with Swagger)
 - manual testing 
 - workflows / necessary documentation 
 - coverage 
