@@ -12,15 +12,15 @@ Work schedule: flexible schedule, full day, shift schedule, remote working
 
 **QA engineer**
 
-Stack: Github, CircleCI, Puppeteer, Allure, Notion.so, Java, Selenide, Jenkins, Jira
+Stack: Github, CircleCI, Puppeteer, Allure, Notion.so, Java, Selenoid, Jenkins, Jira
 
 Achievements: 
 
-- Setting up e2e-testing(Puppeteer, Selenide)
+- Setting up e2e-testing(Puppeteer, Selenoid)
 - reporting (Allure)
 - ci (on build/scheduled)
-- notifications(Telegram)
-- API tests (postman with newman, Java with Swagger)
+- notifications(Telegram, Slack)
+- API tests (Postman with newman, Java with Swagger)
 - manual testing 
 - workflows / necessary documentation 
 - coverage 
