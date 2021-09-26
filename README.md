@@ -23,7 +23,6 @@ Achievements: 
 - API tests (Postman with newman, Java with Swagger)
 - Manual testing 
 - Workflows / necessary documentation 
-- Coverage 
 - Requirements review 
 - Participating in release cycle 
 
