@@ -3,6 +3,7 @@
 - Software Development
 - Testing
 - Startups
+- Solution Architect
 
 Employment: work placement, part time, full time
 
