@@ -27,7 +27,7 @@ Achievements: 
 - Requirements review 
 - Participating in release cycle 
 
-First version of tests was on Cypress, Playwright, Selenide (Java).
+First version of tests was on Cypress, Playwright (TS), Selenide (Java).
 
 - Architecture design
 - Full development cycle
