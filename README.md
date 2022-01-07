@@ -13,11 +13,11 @@ Work schedule: flexible schedule, full day, shift schedule, remote working
 
 **QA engineer**
 
-Stack: Github, CircleCI, Puppeteer, Allure, Notion.so, Java, Selenoid, Jenkins, Jira
+Stack: Github, CircleCI, Github Actions, Puppeteer, Allure, Notion.so, Selenide (Java), Jenkins, Jira, Playwright (TS)
 
 Achievements: 
 
-- Setting up e2e-testing(Puppeteer, Selenoid)
+- Setting up e2e-testing(Puppeteer, Selenide, Playwright)
 - Reporting (Allure)
 - CI (on build/scheduled)
 - Notifications(Telegram)
@@ -26,9 +26,6 @@ Achievements: 
 - Workflows / necessary documentation 
 - Requirements review 
 - Participating in release cycle 
-
-First version of tests was on Cypress, Playwright (TS), Selenide (Java).
-
 - Architecture design
 - Full development cycle
 - Customers integration(oil and gas companies) of the automation systems
