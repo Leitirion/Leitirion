@@ -13,16 +13,16 @@ Work schedule: flexible schedule, full day, shift schedule, remote working
 
 **QA engineer**
 
-Stack: Github, CircleCI, Github Actions, Puppeteer, Allure, Notion.so, Selenide (Java), Jenkins, Jira, Playwright (TS)
+Stack: Github (Github Actions), Gitlab, CircleCI, Puppeteer, Allure, Notion.so/Coda, Selenide (Java), Jenkins, Jira, Playwright (TS/JS)
 
 Achievements: 
 
 - Setting up e2e-testing(Puppeteer, Selenide, Playwright)
 - Reporting (Allure)
-- CI (on build/scheduled)
+- CI (on build/scheduled/manually)
 - Notifications(Telegram)
-- API tests (Postman with newman, Java with Swagger)
-- Manual testing 
+- API tests (Postman with newman, Java with Swagger, Playwright API tests)
+- Manual testing (also testing of LLMs)
 - Workflows / necessary documentation 
 - Requirements review 
 - Participating in release cycle 
